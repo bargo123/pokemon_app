@@ -1,0 +1,1 @@
+enum HttpRequestEnum { GET, POST }

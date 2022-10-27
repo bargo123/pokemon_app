@@ -1,0 +1,1 @@
+enum FavouritesEnum { DoesExist, DoesNotExist }
